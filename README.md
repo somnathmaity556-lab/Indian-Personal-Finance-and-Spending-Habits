@@ -27,7 +27,7 @@ The interactive dashboard consists of two primary views:
 ## 📂 Repository Structure
 - `/sql_scripts`: Contains the PostgreSQL queries used for data extraction and transformation.[View SQL Queries Here](SQL_Scripts/Queries.sql)
 - `/data`: Sample dataset (anonymized).
-- `/dashboard`: The `.pbix` file for the Power BI report.
+- `/dashboard`: The `.pbix` file for the Power BI report. [View Dashboard Here](Dashboard/Indian personal finance and spending habits.pbix)
 - `README.md`: Project documentation.
 
 ## 🚀 How to Use
