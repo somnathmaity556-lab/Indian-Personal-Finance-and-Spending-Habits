@@ -25,7 +25,7 @@ The interactive dashboard consists of two primary views:
    - **Decomposition Tree:** Drill-down analysis of costs by City Tier and Age Groups.
 
 ## 📂 Repository Structure
-- `/sql_scripts`: Contains the PostgreSQL queries used for data extraction and transformation.
+- `/sql_scripts`: Contains the PostgreSQL queries used for data extraction and transformation.[View SQL Queries Here](SQL_Scripts/Queries.sql)
 - `/data`: Sample dataset (anonymized).
 - `/dashboard`: The `.pbix` file for the Power BI report.
 - `README.md`: Project documentation.
