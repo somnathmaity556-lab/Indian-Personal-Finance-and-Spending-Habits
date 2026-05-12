@@ -5,6 +5,11 @@ This project provides a comprehensive data-driven analysis of personal finance h
 
 The objective is to identify spending leakages and evaluate savings performance against pre-defined financial goals.
 
+## 📊 Dashboard Preview
+![Dashboard Overview](Dashboard/Dashboard.png)
+![Dashboard Overview](Dashboard/cashflow.png)
+![Dashboard Overview](Dashboard/Expenses%20Insights.png)
+
 ## 🛠️ Tech Stack
 - **Database:** PostgreSQL (Data Storage & Advanced Querying)
 - **Data Transformation:** Power Query (M Language)
@@ -36,4 +41,4 @@ The interactive dashboard consists of two primary views:
 3. Open the `.pbix` file in Power BI Desktop to explore the interactive visuals.
 
 ---
-**Contact:** [Your Name/LinkedIn Link]
+**Contact:** [Somnath Maity/LinkedIn Link]
